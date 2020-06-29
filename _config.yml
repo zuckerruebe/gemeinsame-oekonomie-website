@@ -21,8 +21,8 @@
 title: Gemeinsame Ökonomie in der Schweiz
 email: kontakt@gemeinsame-oekonomie.ch
 description: >- # this means to ignore newlines until "baseurl:"
-  Diese Seite soll ein Anlaufspunkt sein für alles was mit gemeinsamer Ökonomie
-  in der Schweiz zu tun hat.
+  Diese Seite soll ein Anlaufpunkt sein für alle, welche sich für gemeinsame
+  Ökonomie in der Schweiz interessieren
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.gemeinsame-oekonomie.ch" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -30,6 +30,9 @@ url: "https://www.gemeinsame-oekonomie.ch" # the base hostname & protocol for yo
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
+
+github:
+  is_project_page: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
