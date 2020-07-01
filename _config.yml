@@ -25,6 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Ökonomie in der Schweiz interessieren
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.gemeinsame-oekonomie.ch" # the base hostname & protocol for your site, e.g. http://example.com
+lang: de_CH
 
 plugins:
   - jekyll-feed
