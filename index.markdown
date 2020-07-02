@@ -17,4 +17,4 @@ Diese Seite befindet sich momentan im Aufbau und wir müssen Dich vorübergehend
 1. [Kommune Niederkaufungen auf der englischen Wikipedia](https://en.wikipedia.org/wiki/Kommune_Niederkaufungen) (Für Deutsch siehe auch [Gemeinsame Ökonomie auf der Website der Kommune Niederkaufungen](https://www.kommune-niederkaufungen.de/uber-uns/grundsatze/gemeinsame-okonomie/))
 1. [Kommune Twin Oaks auf Wikipedia](https://de.wikipedia.org/wiki/Twin_Oaks_Community)
 
-Gerne hören wir von Dir unter kontaktAFFENSCHWANZgemeinsame-oekonomie.ch, oder, für Zürich-spezifische Anliegen, unter zuerichAFFENSCHWANZgemeinsame-oekonomie.ch
+Gerne hören wir von Dir unter kontaktAFFENSCHWANZgemeinsame-oekonomie.ch oder, für Fragen und Anregungen bezüglich gemeinsamer Ökonomie im Raum Zürich, unter zuerichAFFENSCHWANZgemeinsame-oekonomie.ch.
